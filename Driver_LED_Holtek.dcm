@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HT16K33-20SOP
+D RAM Mapping 16x8 LED Controller Driver with Keyscan
+K LED Matrix driver
+F https://www.holtek.com/documents/10179/116711/HT16K33v120.pdf
+$ENDCMP
+#
+$CMP HT16K33-24SOP
+D RAM Mapping 16x8 LED Controller Driver with Keyscan
+K LED Matrix driver
+F https://www.holtek.com/documents/10179/116711/HT16K33v120.pdf
+$ENDCMP
+#
+$CMP HT16K33-28SOP
+D RAM Mapping 16x8 LED Controller Driver with Keyscan
+K LED Matrix driver
+F https://www.holtek.com/documents/10179/116711/HT16K33v120.pdf
+$ENDCMP
+#
+#End Doc Library
