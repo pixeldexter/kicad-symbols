@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP HT1635A
+D 44x8 LED Driver with serial interface
+K LED Matrix Driver SPI
+F https://www.holtek.com/documents/10179/116711/HT1635A_Bv130.pdf
+$ENDCMP
+#
+$CMP HT1635B
+D 44x8 LED Driver I2C interface
+K LED Matrix Driver I2C
+F https://www.holtek.com/documents/10179/116711/HT1635A_Bv130.pdf
+$ENDCMP
+#
 $CMP HT16K33-20SOP
 D RAM Mapping 16x8 LED Controller Driver with Keyscan
 K LED Matrix driver
